@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "music-player",
-    "slug": "music-player",
+    "name": "expo-boilerplate",
+    "slug": "expo-boilerplate",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
-    "scheme": "music-player",
+    "scheme": "expo-boilerplate",
     "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
@@ -18,7 +18,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.music.player",
+      "bundleIdentifier": "com.expo.boilerplate",
       "infoPlist": {
         "UIBackgroundModes": [
           "audio"
